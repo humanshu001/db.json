@@ -1,5 +1,4 @@
 {
-    "locations" : [
     {
     "id": 0,
     "name": "Acme Fresh Start Housing",
@@ -99,5 +98,5 @@
     "availableUnits": 6,
     "wifi": true,
     "laundry": true
-    }]
+    }
     }
