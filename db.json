@@ -1,4 +1,4 @@
-{
+[
     {
     "id": 0,
     "name": "Acme Fresh Start Housing",
@@ -99,4 +99,4 @@
     "wifi": true,
     "laundry": true
     }
-    }
+]
